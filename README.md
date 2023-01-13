@@ -2,7 +2,7 @@
   <a href="https://github.com/OitaloDev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=OitaloDev&show_icons=true&theme=radical"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oitalodev&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OitaloDev&layout=compact&theme=radical"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sj-Html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
