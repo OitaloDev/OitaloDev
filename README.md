@@ -37,5 +37,6 @@
 </div>
   
 <br>
-
+### 🏆 &nbsp;Status
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oitalodev&label=Profile%20views&color=ff00d0&style=flat" alt="oitalodev" /> </p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OitaloDev&layout=compact&langs_count=7&theme=dracula%22/%3E/>  
