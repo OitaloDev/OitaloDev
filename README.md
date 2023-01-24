@@ -1,7 +1,12 @@
 <div align="center">
+### 🏆 &nbsp;Status
+</div>  
+<div align="center">
+
   <a href="https://github.com/OitaloDev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=OitaloDev&show_icons=true&theme=radical"/>
   &nbsp;&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OitaloDev&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sj-Html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
@@ -37,6 +42,8 @@
 </div>
   
 <br>
-### 🏆 &nbsp;Status
+  
+
+<div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oitalodev&label=Profile%20views&color=ff00d0&style=flat" alt="oitalodev" /> </p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OitaloDev&layout=compact&langs_count=7&theme=dracula" />  
+</div>
